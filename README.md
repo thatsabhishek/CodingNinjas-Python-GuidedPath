@@ -6,7 +6,7 @@ This repo includes:
   - [Print Name and age](./BasicIOinpython/PrintNameandage.py)
   - [Swap Two Numbers](./BasicIOinpython/SwapTwoNumbers.py)
   - [Calculate Simple Interest](./BasicIOinpython/CalculateSimpleInterest.py)
-- [](./Conditionalstatementsandloop/)
+- [Conditional statements and loop](./Conditionalstatementsandloop/)
   - [Sum of Even Numners till N](./Conditionalstatementsandloop/SumofEvenNumberstillN.py)
   - [Fahrenheit to Celsius](./Conditionalstatementsandloop/FahrenheittoCelsius.py)
   - [Sum of even & odd](./Conditionalstatementsandloop/Sumofeven%26odd.py)
