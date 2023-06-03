@@ -13,7 +13,11 @@ This repo includes:
   - [Find power of a number](./Conditionalstatementsandloop/Findpowerofanumber.py)
   - [Factorial of a Number](./Conditionalstatementsandloop/FactorialofaNumber.py)
   - [N-th Fibonacci Number](./Conditionalstatementsandloop/N-thFibonacciNumber.py)
-
+- [Function in python](./Functioninpython/)
+  - [Function to print Hello World](./Functioninpython/FunctiontoprintHelloWorld.py)
+  - [Print all Divisors of a number](./Functioninpython/PrintallDivisorsofanumber.py)
+  - [Set Bits](./Functioninpython/SetBits.py)
+  - [Total Prime](./Functioninpython/TotalPrime.py)
 
 # CodingNinjas Guided Path
 ## Rate my Repo ⭐!!!
