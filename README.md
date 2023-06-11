@@ -18,6 +18,13 @@ This repo includes:
   - [Print all Divisors of a number](./Functioninpython/PrintallDivisorsofanumber.py)
   - [Set Bits](./Functioninpython/SetBits.py)
   - [Total Prime](./Functioninpython/TotalPrime.py)
+- [List in python](./Listinpython/)
+  - [First index of element](./Listinpython/Firstindexofelement.py)
+  - [Last index of element](./Listinpython/Lastindexofelement.py)
+  - [Reverse the array](./Listinpython/Reversethearray.py)
+  - [Rotate array](./Listinpython/Rotatearray.py)
+  - [K'th smallest/largest element in an array](./Listinpython/Kthsmallestlargestelementinanarray.py)
+  - [Sort012](./Listinpython/sort012.py)
 
 # CodingNinjas Guided Path
 ## Rate my Repo ⭐!!!
