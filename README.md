@@ -25,6 +25,10 @@ This repo includes:
   - [Rotate array](./Listinpython/Rotatearray.py)
   - [K'th smallest/largest element in an array](./Listinpython/Kthsmallestlargestelementinanarray.py)
   - [Sort012](./Listinpython/sort012.py)
+- [String](./string/)
+  - [Count Words](./string/CountWords.py)
+  - [All substrings](./string/Allsubstrings.py)
+  - [Reverse String Word Wise](./string/ReverseStringWordWise.py)
 
 # CodingNinjas Guided Path
 ## Rate my Repo ⭐!!!
