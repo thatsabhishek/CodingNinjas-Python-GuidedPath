@@ -29,6 +29,10 @@ This repo includes:
   - [Count Words](./string/CountWords.py)
   - [All substrings](./string/Allsubstrings.py)
   - [Reverse String Word Wise](./string/ReverseStringWordWise.py)
+  - [Check Permutation](./string/CheckPermutation.py)
+  - [Remove Consecutive Duplicates](./string/RemoveConsecutiveDuplicates.py)
+  - [Reverse Each Word](./string/ReverseEachWord.py)
+  - [Remove character](./string/Removecharacter.py)
 
 # CodingNinjas Guided Path
 ## Rate my Repo ⭐!!!
